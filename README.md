@@ -1,4 +1,4 @@
-
+<img align="right" src="https://komarev.com/ghpvc/?username=arturvinicius2000&color=ff69b4"><br>
 
 ### Fala Dev! Artur Vinicius aqui, Seja bem vindo(a) ✋
 
