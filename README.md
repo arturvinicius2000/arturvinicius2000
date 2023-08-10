@@ -6,6 +6,9 @@
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arturarauujo/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/arthur.araujo.921025)
 
+<div align="center">
+<img src="https://github.com/arturvinicius2000/arturvinicius2000/assets/141676608/6c3bfd77-e6ad-4160-9eaf-b085aee68cc5" width="400px" />
+</div>
 
 ![arturvinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=arturvinicius2000&show_icons=true&theme=dracula)
 
