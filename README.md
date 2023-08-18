@@ -21,4 +21,4 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, estudante de Analise e Desenvolvimento Sistemas, em constante evolução de aprendizagem 
+Apaixonado por tecnologia, estudante de Egenharia de Software, em constante evolução de aprendizagem 
