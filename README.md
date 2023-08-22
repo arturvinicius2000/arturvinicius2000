@@ -9,6 +9,7 @@
 <div align="left">
 <img src="https://github.com/arturvinicius2000/arturvinicius2000/assets/141676608/6c3bfd77-e6ad-4160-9eaf-b085aee68cc5" width="400px" />
 </div>
+</br>
 
 ![arturvinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=arturvinicius2000&show_icons=true&theme=dracula)
 
